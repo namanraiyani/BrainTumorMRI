@@ -1,5 +1,7 @@
 # BrainTumorMRI
 
+Dataset Link - https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
 Introduction
 This project focuses on the classification of brain tumors using MRI images. The objective is to develop a deep learning model capable of accurately distinguishing between different classes of brain tumors. The dataset used comprises labeled MRI images, which allows us to train and validate our model effectively.
 
